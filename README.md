@@ -19,7 +19,14 @@
 
 ### Generales:
 
+- Resolver los ejercicios de los capítulos 15 y 16 aplicando los conocimientos adquiridos referente a los Fundamentos de ca y Elementos R, L y C y el concepto de impedancia. 
+
 ### Especificos: 
+
+- Definir y calcular las diferencias de fase entre formas de onda cuadrada, triangular, rectangular y sinusoidal. 
+- Calcular valores promedio y valores efectivos para formas de onda que varían en el tiempo. 
+- Identificar las diferencias de voltaje y corriente de circuitos con corriente directa (cd) y corriente alterna (cd). 
+
 
 ### 2. Marco Teorico: 
 
@@ -237,10 +244,11 @@ e=23.2 V
 
 ## 5. Conclusiones: 
 
+- Con la resolución de los ejercicios del capítulo 15 se calculó el voltaje sinusoidal instantáneo, valores promedio, valores efectivos en cualquier instante de tiempo. Se identificó la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para corriente alterna al igual que su forma de onda para voltaje y corriente. 
+
 ## 6. Bibliografia: 
 
-
-
+- Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
 
 
 
