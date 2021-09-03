@@ -17,7 +17,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Objetivos: 
 
-### Generales:
+### General:
 
 • Resolver los ejercicios de los capítulos 15 y 16 aplicando los conocimientos adquiridos referente a los Fundamentos de ca y Elementos R, L y C y el concepto de impedancia. 
 
