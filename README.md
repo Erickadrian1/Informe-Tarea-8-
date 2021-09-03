@@ -61,7 +61,7 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/84594486/131944139-a5df1bbb-d40f-4195-b059-b4175f0dad43.png)
 
-***15-4 Frecuencia, periodo, amplitud y valor pico*
+**15-4 Frecuencia, periodo, amplitud y valor pico**
 
 7. Para cada uno de los siguientes, determine la frecuencia: 
 
@@ -83,7 +83,7 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/84594486/131944420-09b1f107-7216-4321-97dd-b2928e505452.png)
 
-***15-5 Relaciones angular y gráfica paras las ondas seno *
+**15-5 Relaciones angular y gráfica paras las ondas seno **
 
 17. Dado el voltaje v = Vm sen (α). Si Vm =240 V, ¿qué valor tiene v cuando α=  37°?
 
