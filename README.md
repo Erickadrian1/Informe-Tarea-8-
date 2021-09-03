@@ -242,6 +242,8 @@ e=23.2 V
 
 ## 4. Video: 
 
+https://www.youtube.com/watch?v=LD6BruT0ppY
+
 ## 5. Conclusiones: 
 
 - Con la resolución de los ejercicios del capítulo 15 se calculó el voltaje sinusoidal instantáneo, valores promedio, valores efectivos en cualquier instante de tiempo. Se identificó la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para corriente alterna al igual que su forma de onda para voltaje y corriente. 
