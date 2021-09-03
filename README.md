@@ -445,6 +445,8 @@ https://www.youtube.com/watch?v=LD6BruT0ppY
 
 •	Al haber resuelto los ejercicios observamos la importancia que tienen los números complejos en corriente alterna y lo necesario que es poder transformarlos de varias formas según se requiera. 
 
+•	Observamos que el análisis de circuitos de corriente alterna en el dominio del tiempo puede volverse un poco complicado sin el uso del fasor ya que con este podemos analizarlo en el dominio de los fasores. 
+
 •	También aprendimos la importancia que tiene la Impedancia en los circuitos de corriente alterna R, L y C para poder determinar valores de corriente y voltaje 
 
 ## 6. Bibliografia: 
