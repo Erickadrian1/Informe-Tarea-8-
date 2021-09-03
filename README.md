@@ -35,6 +35,114 @@
 
 ### Ejercicios Capítulo 15
 
+**15-6 Voltajes y corrientes como funciones del tiempo** 
+
+27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
+
+a. T = 100 ns
+
+![image](https://user-images.githubusercontent.com/84789076/131932813-b9930ab7-1962-4fec-8e75-ccaacb8f5d0d.png)
+
+b. f = 30 Hz 
+
+![image](https://user-images.githubusercontent.com/84789076/131932833-2dba1eb9-f2fe-4404-9936-75a9639362e7.png)
+
+c. 100 ciclos en 4 s
+
+![image](https://user-images.githubusercontent.com/84789076/131932849-43ac5fa6-8958-4a16-8662-4630ae22ec7a.png)
+
+d. periodo = 20 ms 
+
+![image](https://user-images.githubusercontent.com/84789076/131932873-d77920cf-dadb-4576-91b1-bfe813ac0f11.png)
+
+e. 5 periodos en 20 ms
+
+![image](https://user-images.githubusercontent.com/84789076/131932890-ce4df265-f676-4a25-8978-408c7c5b1806.png)
+
+29. Determine las ecuaciones para las ondas seno con lo siguiente:
+
+a. Vm = 170 V, f = 60 Hz
+
+![image](https://user-images.githubusercontent.com/84789076/131932967-a0b7f5e0-749d-42c5-8d5e-de02bc752270.png)
+
+b. Im = 40 uA, T = 10 ms
+
+![image](https://user-images.githubusercontent.com/84789076/131932997-a151bfc9-210e-4585-8aac-1022e856b672.png)
+
+c. T = 120 us, v=10 V en t = 12 us
+
+![image](https://user-images.githubusercontent.com/84789076/131933032-b2cf1b82-c688-4ac4-82d3-f4ffeec1e900.png)
+
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T=50 ms. Determine su ecuación
+
+![image](https://user-images.githubusercontent.com/84789076/131933067-a63e7f85-638f-4cb8-9d62-54361a5a074a.png)
+
+33. Dada i=47 sen 8260t mA, determine la corriente cuando t=0 s, 80, 410 y 1200 uS.
+
+![image](https://user-images.githubusercontent.com/84789076/131933131-33f6b0f5-75c5-4156-aa36-aa3fa4b26af1.png)
+
+35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
+
+![image](https://user-images.githubusercontent.com/84789076/131933178-161b8a2e-eb9a-4403-b177-007d6a43d2d4.png)
+
+![image](https://user-images.githubusercontent.com/84789076/131933203-65f9e396-decd-452a-ab66-f85e24c69c1e.png)
+
+![image](https://user-images.githubusercontent.com/84789076/131933222-e5628f11-072c-4013-9845-703f8748ebff.png)
+
+![image](https://user-images.githubusercontent.com/84789076/131933236-09099b2a-0749-4b27-931f-cc1817dcc1d1.png)
+
+37. Dada v=5 sen(wt+45grados). Si w=20pi rad/s, ¿qué valor tiene v cuando t=20, 75 y 90 ms?
+
+![image](https://user-images.githubusercontent.com/84789076/131933266-7a7fc77b-b0cc-4f43-acfa-4a7f4b1230ad.png)
+
+39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
+
+![image](https://user-images.githubusercontent.com/84789076/131933294-4e7aeacf-bca2-43cc-9a82-0fdc52d8ee35.png)
+
+41. Dada v=30 sen(wt=45grados) donde w=40p rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y-23 V?
+
+![image](https://user-images.githubusercontent.com/84789076/131933327-5e86ba78-2883-48b0-a36e-75e1d7f98c00.png)
+
+![image](https://user-images.githubusercontent.com/84789076/131933347-db20bd2c-267a-4730-a642-47de7178c27f.png)
+
+15-7 Introducción a los fasores
+
+43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
+a. v=100 sen wt
+
+i=80 sen(wt+20grados)
+
+![image](https://user-images.githubusercontent.com/84789076/131933380-5b82c5ea-f9a5-48c5-8885-f28632c8f5b2.png)
+
+b. v1=200 sen(wt-30grados)
+
+v2=150 sen(wt-30grados)
+
+![image](https://user-images.githubusercontent.com/84789076/131933414-40402a51-049c-4951-930d-e73aabeb7958.png)
+
+c. i1=40 sen(wt+30grados)
+
+i2=50 sen(wt-20grados)
+
+![image](https://user-images.githubusercontent.com/84789076/131933445-91837385-3935-4a51-a1b0-b1b73e0196ed.png)
+
+45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
+
+![image](https://user-images.githubusercontent.com/84789076/131933484-8fe11777-c8e0-4b42-b662-3afaaf2f2d34.png)
+
+![image](https://user-images.githubusercontent.com/84789076/131933498-2a07a213-24aa-4186-b8ff-0cdcc1c33d7a.png)
+
+15-8 Formas de onda de ca y valor promedio
+
+47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+
+![image](https://user-images.githubusercontent.com/84789076/131933613-4c58d4c4-d385-47fa-87ad-c0befbbc406a.png)
+
+49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
+
+![image](https://user-images.githubusercontent.com/84789076/131933662-a0ca80ec-60fb-4635-a09f-42f5c5584dd7.png)
+
+![image](https://user-images.githubusercontent.com/84789076/131933691-19079fd9-2107-489a-bedf-f6f5ec305e68.png)
 
 15-9 Valores efectivos (rms)
 51. Para el circuito de la figura 15-90, e= 25 sen( wt) V y un periodo de T = 120 ms.
