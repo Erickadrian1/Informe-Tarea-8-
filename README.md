@@ -42,6 +42,70 @@
 
 ### Ejercicios Capítulo 15
 
+**15-1 Introducción**
+1. ¿A qué se refiere “voltaje de ca” y “corriente de ca”?
+
+El voltaje de ca es aquel cuya polaridad varía periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varía periódicamente.
+15-2 Generación de voltajes de ca
+
+3. a. ¿Qué significa valor instantáneo? 
+La magnitud de una forma de onda (tal como voltaje o corriente) en cualquier instante.
+
+b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
+
+![image](https://user-images.githubusercontent.com/84594486/131943893-e470bf52-85ef-4739-9a2a-2c919585f200.png)
+ 
+**15-3 Convenciones de voltaje y corriente para ca**
+
+5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t = 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+
+![image](https://user-images.githubusercontent.com/84594486/131944139-a5df1bbb-d40f-4195-b059-b4175f0dad43.png)
+
+***15-4 Frecuencia, periodo, amplitud y valor pico*
+
+7. Para cada uno de los siguientes, determine la frecuencia: 
+
+![image](https://user-images.githubusercontent.com/84594486/131944219-85c6f926-e87d-4595-a41d-7fbff0a0a570.png)
+
+9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77
+
+![image](https://user-images.githubusercontent.com/84594486/131944287-783751bd-0da3-4782-b191-789492fe3ed6.png)
+
+11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?
+
+![image](https://user-images.githubusercontent.com/84594486/131944333-c8b2f22c-d239-4434-8aa4-22fc94cd45e7.png)
+
+13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+![image](https://user-images.githubusercontent.com/84594486/131944383-00c6ce84-1bd1-4a22-baf1-6ba5a4aa0777.png)
+
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25 T2 y f1 = 10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+
+![image](https://user-images.githubusercontent.com/84594486/131944420-09b1f107-7216-4321-97dd-b2928e505452.png)
+
+***15-5 Relaciones angular y gráfica paras las ondas seno *
+
+17. Dado el voltaje v = Vm sen (α). Si Vm =240 V, ¿qué valor tiene v cuando α=  37°?
+
+![image](https://user-images.githubusercontent.com/84594486/131944493-1d133332-bcb8-4a3c-adcf-3b0aa1d9bfbe.png)
+
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando α=  150°. ¿Qué valor tiene Vm?
+
+![image](https://user-images.githubusercontent.com/84594486/131944528-16280d42-42d3-4829-9004-7939353d4a98.png)
+
+21. Convierta los siguientes ángulos de grados a radianes: 
+
+![image](https://user-images.githubusercontent.com/84594486/131944571-eff69cc2-a181-4b29-94ec-35e5f2cf73a3.png)
+
+23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t =30, 75, 140 y 315 ms.
+
+![image](https://user-images.githubusercontent.com/84594486/131944621-47b1a3b6-2653-4b42-9c83-c1ad0fa1ecc6.png)
+
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t =5 us. Determine Vm y dibuje la forma de onda.
+
+![image](https://user-images.githubusercontent.com/84594486/131944643-f27eef63-a9c9-4ce4-a9c2-b45c839ec997.png)
+
+
 **15-6 Voltajes y corrientes como funciones del tiempo** 
 
 27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
